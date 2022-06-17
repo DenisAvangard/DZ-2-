@@ -6,6 +6,6 @@
 
 * [Montreal Canadiens](Montreal_Canadiens.md)
 * [Toronto Maple Leafs](Toronto_Maple_Leafs.md) 
-* [Detroit Red Wings](Detriot_Red_Wings.md)
+* [Detroit Red Wings](Detroit_Red_Wings.md)
 
 
